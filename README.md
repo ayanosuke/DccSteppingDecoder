@@ -8,3 +8,5 @@ https://desktopstation.net/tmi/ https://desktopstation.net/bb/index.php
 
 This software is released under the MIT License, see LICENSE.txt.
 （このソフトウェアは、MITライセンスのもとで公開されています。LICENSE.txtを見てください）
+
+DccSteping200610 CV51 bugfix  1-2 phase bug fix
